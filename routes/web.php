@@ -13,4 +13,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', 'ShowHome');
+Route::get('/demo', 'ShowHome');
+Route::get('/', 'stage');
