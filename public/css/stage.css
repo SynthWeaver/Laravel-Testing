@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+td{
+    border: 1px solid black;
+}
+
+.vrij{
+    background-color:olivedrab;
+}
+
+.thuis{
+    background-color:red;
+}
+
+.done{
+    text-decoration: underline  line-through;
+}
+
