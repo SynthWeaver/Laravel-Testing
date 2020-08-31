@@ -143,7 +143,7 @@
         </tr>
         <tr>
           <td>28 september <br> Week 5</td>
-          <td>Stagebegeleider & Akkoord onderzoeksvraag?</td>
+          <td>Stagebegeleider komt langs met Ron en geeft akkoord onderzoeksvraag?</td>
           <td></td>
           <td></td>
           <td></td>
@@ -151,7 +151,7 @@
         </tr>
         <tr>
           <td>5 october <br> Week 6</td>
-          <td>Pieter Leek Intervisie 1?</td>
+          <td>Pieter Leek Intervisie 1 zonder Ron?</td>
           <td></td>
           <td></td>
           <td></td>
@@ -183,7 +183,7 @@
         </tr>
         <tr>
           <td>2 november <br> Week 10</td>
-          <td>Pieter Leek Intervisie 2? Tussentijdse beoordeling bedrijf?</td>
+          <td>Pieter Leek Intervisie 2 zonder ron? Tussentijdse beoordeling met Ron?</td>
           <td></td>
           <td></td>
           <td></td>
@@ -199,7 +199,7 @@
         </tr>
         <tr>
           <td>16 november <br> Week 12</td>
-          <td>Stagepresentatie?</td>
+          <td>Stagepresentatie op school?</td>
           <td></td>
           <td></td>
           <td></td>
@@ -247,7 +247,7 @@
         </tr>
         <tr>
           <td>28 december <br> Week 18</td>
-          <td>Stagebegeleider eindgesprek? Portfolio inleveren online?<br> </td>
+          <td>Eindgesprek met Ron en stagebegeleider? Portfolio inleveren online?<br> </td>
           <td></td>
           <td></td>
           <td class="vrij"></td>
